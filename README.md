@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefan-chivu
 
-- 🌱 I’m currently learning Computer Engineering at Universitatea Politehnica Timisoara
+- Junior Cloud Engineer @CloudbaseSolutions
 
 - 📫 How to reach me - stefan.chivu1@yahoo.com
