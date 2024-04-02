@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @stefan-chivu
 
-- Cloud Engineer @CloudbaseSolutions
+- CEO & Founder @StratifyCloud
+- DevOps Engineer @Servoy
+- Former Cloud Engineer @CloudbaseSolutions
 
 - 📫 How to reach me - stefan.chivu1@yahoo.com
 
