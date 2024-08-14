@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefan-chivu
 
-- CEO & Founder @StratifyCloud
+- Founder @StratifyCloud
 - DevOps Engineer @Servoy
 - Former Cloud Engineer @CloudbaseSolutions
 
